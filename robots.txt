@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rownpurn.github.io/sitemap
+Sitemap: https://rownpurn.github.io/app/sitemap
+Sitemap: https://rownpurn.github.io/assets/sitemap
+Sitemap: https://rownpurn.github.io/css/sitemap
+Sitemap: https://rownpurn.github.io/includes/sitemap
+Sitemap: https://rownpurn.github.io/item/sitemap
+Sitemap: https://rownpurn.github.io/src/sitemap
